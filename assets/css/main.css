@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue
+}
+
+button {
+    cursor: pointer;
+    margin-right: 5px;
+    background-color: wheat;
+    border-radius: 15px;
+    color: brown;
+    margin-left: 10px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
